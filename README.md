@@ -5,6 +5,8 @@ This repository contains the source code for the tutorial article
 Fast Implementation of Caching and Locking with py-cachify",
 which demonstrates how to integrate py-cachify with FastAPI.
 
+[py-cachify's repo is there](https://github.com/EzyGang/py-cachify).
+
 The full guide can be found in **[GUIDE.md](./GUIDE.md)**
 
 It was also published on:
